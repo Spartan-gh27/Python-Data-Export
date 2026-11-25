@@ -19,7 +19,7 @@ Technologies:
 
 Project Structure:
 
-- `__main__.py`: Creates sample objects and executes the export operations.
+- `main.py`: Creates sample objects and executes the export operations.
 - `classes.py`: Contains the data classes, export format classes, and the export function.
 
 How to Run:
@@ -28,6 +28,6 @@ How to Run:
 2. Clone this repository.
 3. Open the project directory.
 
-python ____main____.py
+python main.py
 
 The application will demonstrate exporting user records to JSON and student records to XML.
