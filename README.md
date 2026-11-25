@@ -19,7 +19,7 @@ Technologies:
 
 Project Structure:
 
-- `main.py`: Creates sample objects and executes the export operations.
+- `__main__.py`: Creates sample objects and executes the export operations.
 - `classes.py`: Contains the data classes, export format classes, and the export function.
 
 How to Run:
