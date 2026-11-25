@@ -1,4 +1,3 @@
-# CORRIGIDO
 from classes import *
 
 def main():
