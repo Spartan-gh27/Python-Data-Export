@@ -28,6 +28,6 @@ How to Run:
 2. Clone this repository.
 3. Open the project directory.
 
-python __main__.py
+python ____main____.py
 
 The application will demonstrate exporting user records to JSON and student records to XML.
